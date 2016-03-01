@@ -19,10 +19,15 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            listView1.Items.Clear();
+            textBox1.Text = (0).ToString();
+            textBox2.Text = (0).ToString();
+            textBox3.Text = (0).ToString();
             Creator creator = new Creator();
             creator.initialize(100);
-            //Life life = new Life(creator.objects);
-            foreach (WorldObject w in creator.objects)
+            //Life life = new Life(new World((new Creator(100)).objects));      // <- создание жизни
+            //Life life = new Life(new World(creator.objects));                 // <- создание жизни
+            foreach (WorldObject w in creator.objects)                          // выводит созданные объекты
             {
                 string info = "";
                 if (w is AnimalDecotator)

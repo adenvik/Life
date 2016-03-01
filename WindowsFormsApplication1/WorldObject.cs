@@ -11,6 +11,9 @@ namespace WindowsFormsApplication1
         public double health { set; get; }
         public double age { set; get; }
 
+        public int x { set; get; }
+        public int y { set; get; }
+
         public WorldObject(double age)
         {
             this.health = 100;

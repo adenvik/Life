@@ -8,12 +8,12 @@ namespace WindowsFormsApplication1
 {
     class World
     {
-        List<Location> objects = new List<Location>();
+        public List<WorldObject> objects = new List<WorldObject>();
 
         public World(List<WorldObject> objects)
         {
             Random r = new Random();
-            foreach (WorldObject wo in objects)
+            for (int i = 0; i < objects.Count; i++)
             {
                 while (true)
                 {
@@ -21,16 +21,18 @@ namespace WindowsFormsApplication1
                     int y = r.Next(0, 100);
                     if (isClear(x, y))
                     {
-                        this.objects.Add(new Location(wo, x, y));
+                        objects[i].x = x;
+                        objects[i].y = y;
                         break;
                     }
                 }
             }
+            this.objects = objects;
         }
 
         private bool isClear(int x, int y)
         {
-            foreach (Location loc in objects)
+            foreach (WorldObject loc in objects)
             {
                 if (loc.x == x && loc.y == y) return false;
             }

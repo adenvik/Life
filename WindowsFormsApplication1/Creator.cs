@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using System.Windows.Forms;
-
 namespace WindowsFormsApplication1
 {
     class Creator
@@ -14,6 +12,12 @@ namespace WindowsFormsApplication1
         public Creator()
         {
             objects = new List<WorldObject>();
+        }
+
+        public Creator(int count)
+        {
+            objects = new List<WorldObject>();
+            initialize(count);
         }
 
         public void initialize(int count)
@@ -42,11 +46,11 @@ namespace WindowsFormsApplication1
             objects.Add(new Plant(10.0));
             objects.Add(new Plant(10.0));
             
-            int createdCount = 12;
-            int treeCreated = 4;
+            int createdAnimal = 8;
+            int createdTree = 4;
 
-            Random r = new Random();
-            while (createdCount <= count)
+            Random rand = new Random();
+            while (createdAnimal + createdTree <= count)
             {
                 /*
                  * 1 - Хищник тип 1 м
@@ -59,8 +63,8 @@ namespace WindowsFormsApplication1
                  * 8 - Травоядное тип 2 ж
                  * 9 - Растение
                  */
-                int n = r.Next(1, 10);
-                double age = Math.Round(r.NextDouble() * 10 + 5, 1);
+                int n = rand.Next(1, 10);
+                double age = newAge(rand);//Math.Round(r.NextDouble() * 10 + 5, 1);
                 if (n == 1) objects.Add(new Type1(new Predator(age, true)));
                 if (n == 2) objects.Add(new Type1(new Predator(age, false)));
                 if (n == 3) objects.Add(new Type2(new Predator(age, true)));
@@ -71,21 +75,22 @@ namespace WindowsFormsApplication1
                 if (n == 8) objects.Add(new Type2(new Herbivorous(age, false)));
                 if (n == 9)
                 {
-                    treeCreated++;
+                    createdTree++;
                     objects.Add(new Plant(age));
+                    createdAnimal--;
                 }
-                createdCount++;
-                if (treeCreated < createdCount / 5)
+                createdAnimal++;
+                if (createdTree < createdAnimal / 2.2)
                 {
-                    objects.Add(new Plant(age));
-                    createdCount++;
+                    objects.Add(new Plant(newAge(rand)));
+                    createdTree++;
                 }
             }
         }
 
-        public void life()
+        private double newAge(Random rand)
         {
-            //Если два объекта стоят рядом - делать новый объект
+            return Math.Round(rand.NextDouble() * 10 + 5, 1);
         }
     }
 }

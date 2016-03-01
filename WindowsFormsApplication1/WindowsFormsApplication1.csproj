@@ -56,7 +56,6 @@
     </Compile>
     <Compile Include="Herbivorous.cs" />
     <Compile Include="Life.cs" />
-    <Compile Include="Location.cs" />
     <Compile Include="Plant.cs" />
     <Compile Include="Predator.cs" />
     <Compile Include="Program.cs" />
