@@ -23,11 +23,13 @@ namespace WindowsFormsApplication1
             textBox1.Text = (0).ToString();
             textBox2.Text = (0).ToString();
             textBox3.Text = (0).ToString();
+
+            int countObj = 100;
             Creator creator = new Creator();
-            creator.initialize(100);
+            creator.initialize(countObj);
             //Life life = new Life(new World((new Creator(100)).objects));      // <- создание жизни
-            //Life life = new Life(new World(creator.objects));                 // <- создание жизни
-            foreach (WorldObject w in creator.objects)                          // выводит созданные объекты
+            Life life = new Life(new World(creator.objects, countObj / 10 + 5));                 // <- создание жизни
+            /*foreach (WorldObject w in creator.objects)                          // выводит созданные объекты
             {
                 string info = "";
                 if (w is AnimalDecotator)
@@ -55,7 +57,7 @@ namespace WindowsFormsApplication1
                     textBox1.Text = (int.Parse(textBox1.Text) + 1).ToString();
                 }
                 listView1.Items.Add(new ListViewItem(info));
-            }
+            }*/
         }
 
         private void Form1_Load(object sender, EventArgs e)

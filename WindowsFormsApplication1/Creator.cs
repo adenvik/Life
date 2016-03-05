@@ -50,7 +50,7 @@ namespace WindowsFormsApplication1
             int createdTree = 4;
 
             Random rand = new Random();
-            while (createdAnimal + createdTree <= count)
+            while (createdAnimal + createdTree <= count - 2)
             {
                 /*
                  * 1 - Хищник тип 1 м

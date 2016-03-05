@@ -18,7 +18,6 @@ namespace WindowsFormsApplication1
         {
             if (wo is Plant)
             {
-                wo.health = 0;
                 this.hunger = 0.0;
                 this.health = this.health + wo.health / 10;
                 this.health = (this.health > 100) ? 100 : this.health;

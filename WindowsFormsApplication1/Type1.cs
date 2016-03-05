@@ -17,6 +17,8 @@ namespace WindowsFormsApplication1
         public void growthOfHunger()
         {
             this.hunger += 1.2;
+            if (this.getAnimal()) this.health -= 1.5;
+            else this.health -= 1;
         }
     }
 }

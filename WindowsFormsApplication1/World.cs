@@ -9,16 +9,18 @@ namespace WindowsFormsApplication1
     class World
     {
         public List<WorldObject> objects = new List<WorldObject>();
+        public int worldSize { set; get; }
 
-        public World(List<WorldObject> objects)
+        public World(List<WorldObject> objects, int worldSize)
         {
+            this.worldSize = worldSize;
             Random r = new Random();
             for (int i = 0; i < objects.Count; i++)
             {
                 while (true)
                 {
-                    int x = r.Next(0, 100);
-                    int y = r.Next(0, 100);
+                    int x = r.Next(0, this.worldSize);
+                    int y = r.Next(0, this.worldSize);
                     if (isClear(x, y))
                     {
                         objects[i].x = x;
@@ -30,13 +32,26 @@ namespace WindowsFormsApplication1
             this.objects = objects;
         }
 
-        private bool isClear(int x, int y)
+        public bool isClear(int x, int y)
         {
-            foreach (WorldObject loc in objects)
+            if (x < 0 || y < 0)
             {
-                if (loc.x == x && loc.y == y) return false;
+                throw new Exception("Отрицательное значение");
+            }
+            foreach (WorldObject woLoc in objects)
+            {
+                if (woLoc.x == x && woLoc.y == y) return false;
             }
             return true;
+        }
+
+        public WorldObject getObjectByXY(int x, int y)
+        {
+            foreach(WorldObject wo in objects)
+            {
+                if (wo.x == x && wo.y == y) return wo;
+            }
+            return null;
         }
     }
 }

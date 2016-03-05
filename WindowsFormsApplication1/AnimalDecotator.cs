@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
 
         public void growthOfHunger()
         {
-
+            
         }
 
         public bool getAnimal()
