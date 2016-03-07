@@ -27,36 +27,28 @@ namespace WindowsFormsApplication1
             int countObj = 100;
             Creator creator = new Creator();
             creator.initialize(countObj);
-            //Life life = new Life(new World((new Creator(100)).objects));      // <- создание жизни
+            //Life life = new Life(new World((new Creator(100)).objects));                       // <- создание жизни
             Life life = new Life(new World(creator.objects, countObj / 10 + 5));                 // <- создание жизни
-            /*foreach (WorldObject w in creator.objects)                          // выводит созданные объекты
+            /*foreach (WorldObject w in life.world.objects)                                         // выводит созданные объекты
             {
-                string info = "";
                 if (w is AnimalDecotator)
                 {
                     if (((AnimalDecotator)w).getAnimal())
                     {
                         //хищник
-                        info = "Predator : age: " + ((Predator)((AnimalDecotator)w).animal).age + " sex: " + ((Predator)((AnimalDecotator)w).animal).sex;
-                        if (w is Type1) info += " Type1";
-                        else info += " Type2";
                         textBox2.Text = (int.Parse(textBox2.Text) + 1).ToString();
                     }
                     else
                     {
                         //Траводяное
-                        info = "Herbivorous : age: " + ((Herbivorous)((AnimalDecotator)w).animal).age + " sex: " + ((Herbivorous)((AnimalDecotator)w).animal).sex;
-                        if (w is Type1) info += " Type1";
-                        else info += " Type2";
                         textBox3.Text = (int.Parse(textBox3.Text) + 1).ToString();
                     }
                 }
                 else
                 {
-                    info = "Plant : age: " + ((Plant)w).age;
+                    //Растение
                     textBox1.Text = (int.Parse(textBox1.Text) + 1).ToString();
                 }
-                listView1.Items.Add(new ListViewItem(info));
             }*/
         }
 

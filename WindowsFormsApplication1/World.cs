@@ -45,6 +45,30 @@ namespace WindowsFormsApplication1
             return true;
         }
 
+        /*
+         * return the first clear coordinates
+         */
+        public int[] getClearCoords()
+        {
+            int[] coords = new int[2];
+            coords[0] = -1;
+
+            for (int i = 0; i < worldSize; i++)
+            {
+                for (int j = 0; j < worldSize; j++)
+                {
+                    if (isClear(i, j))
+                    {
+                        coords[0] = i;
+                        coords[1] = j;
+                        break;
+                    }
+                }
+            }
+            if (coords[0] == -1) throw new Exception("World is full!");
+            return coords;
+        }
+
         public WorldObject getObjectByXY(int x, int y)
         {
             foreach(WorldObject wo in objects)
