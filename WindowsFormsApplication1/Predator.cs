@@ -14,22 +14,11 @@ namespace WindowsFormsApplication1
 
         }
 
-        public void eat(ref WorldObject wo)
+        public override void eat(WorldObject wo)
         {
-            if (wo is Herbivorous)
-            {
-                this.hunger = 0.0;
-                this.health = this.health + wo.health / 10;
-                this.health = (this.health > 100) ? 100: this.health;
-            }
-            else
-            {
-                //сильно хочет ест
-                if (this.hunger > 60)
-                {
-                    
-                }
-            }
+            this.hunger = 0.0;
+            this.health = this.health + wo.health / 10;
+            this.health = (this.health > 100) ? 100 : this.health;
         }
     }
 }

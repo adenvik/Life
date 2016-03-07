@@ -14,11 +14,16 @@ namespace WindowsFormsApplication1
 
         }
 
-        public void growthOfHunger()
+        public override void growthOfHunger()
         {
-            this.hunger += 0.6;
-            if (this.getAnimal()) this.health -= 0.8;
-            else this.health -= 0.5;
+            this.hunger += 2.5;
+            if (this.getAnimal()) this.health -= 3.1;
+            else this.health -= 2.2;
+        }
+
+        public override void eat(WorldObject wo)
+        {
+            this.animal.eat(wo);
         }
     }
 }

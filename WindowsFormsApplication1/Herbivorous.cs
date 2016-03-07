@@ -14,14 +14,11 @@ namespace WindowsFormsApplication1
 
         }
 
-        public void eat(WorldObject wo)
+        public override void eat(WorldObject wo)
         {
-            if (wo is Plant)
-            {
-                this.hunger = 0.0;
-                this.health = this.health + wo.health / 10;
-                this.health = (this.health > 100) ? 100 : this.health;
-            }
+            this.hunger = 0.0;
+            this.health = this.health + wo.health / 10;
+            this.health = (this.health > 100) ? 100 : this.health;
         }
     }
 }

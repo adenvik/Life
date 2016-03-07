@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication1
 {
-    class AnimalDecotator : Animal
+    abstract class AnimalDecotator : Animal
     {
         public Animal animal { get; set; }
 
@@ -16,10 +16,7 @@ namespace WindowsFormsApplication1
             this.animal = animal;
         }
 
-        public void growthOfHunger()
-        {
-            
-        }
+        abstract public void growthOfHunger();
 
         public bool getAnimal()
         {

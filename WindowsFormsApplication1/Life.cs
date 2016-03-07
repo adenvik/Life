@@ -102,16 +102,16 @@ namespace WindowsFormsApplication1
                     {
                         if (((AnimalDecotator)world.objects[index]).getAnimal())
                         {
-                            log.add(index.ToString() + ": Хищник");
+                            log.add(index.ToString() + ": Хищник " + world.objects[index].health.ToString());
                         }
                         else
                         {
-                            log.add(index.ToString() + ": Травоядное");
+                            log.add(index.ToString() + ": Травоядное " + world.objects[index].health.ToString());
                         }
                     }
                     else
                     {
-                        log.add(index.ToString() + ": Растение");
+                        log.add(index.ToString() + ": Растение " + world.objects[index].health.ToString());
                     }
                     move(world.objects[index]);
                     old();
@@ -193,7 +193,7 @@ namespace WindowsFormsApplication1
                         plantCount--;
 
                         //Сьедает растение и переходит на его позицию
-                        ((AnimalDecotator)wo).eat(ref obj);
+                        ((AnimalDecotator)wo).eat(obj);
                         die(obj);
                         wo.x += dx[index];
                         wo.y += dy[index];
@@ -238,7 +238,7 @@ namespace WindowsFormsApplication1
                             log.add("Объект травоядное и текущее хищник травоядное . Ест травоядное");
                             herbivorousCount--;
 
-                            ((AnimalDecotator)wo).eat(ref obj);
+                            ((AnimalDecotator)wo).eat(obj);
                             die(obj);
                             wo.x += dx[index];
                             wo.y += dy[index];
@@ -316,7 +316,7 @@ namespace WindowsFormsApplication1
                         plantCount--;
                     }
                     die(world.objects[index]);
-                    log.add("Функция old(): объекта с 0 хп уничтожен");
+                    log.add("Функция old(): объект с 0 хп уничтожен");
                     continue;
                 }
                 //Если растение:

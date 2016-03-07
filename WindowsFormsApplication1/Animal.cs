@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication1
 {
-    class Animal : WorldObject
+    abstract class Animal : WorldObject
     {
         public bool sex { set; get; } //0 - Female 1 - Male
         public double hunger { set; get; } //Показатель голода животного
@@ -18,9 +18,7 @@ namespace WindowsFormsApplication1
             this.sex = sex;
         }
 
-        public void eat(ref WorldObject wo)
-        {
+        abstract public void eat(WorldObject wo);
 
-        }
     }
 }
