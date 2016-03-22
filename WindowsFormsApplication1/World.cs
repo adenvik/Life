@@ -32,11 +32,19 @@ namespace WindowsFormsApplication1
             this.objects = objects;
         }
 
+        public WorldObject this[int index]
+        {
+            get
+            {
+                return this.objects[index];
+            }
+        }
+
         public bool isClear(int x, int y)
         {
-            if (x < 0 || y < 0)
+            if (x < 0 || y < 0 || x > worldSize - 1 || y > worldSize - 1)
             {
-                throw new Exception("Отрицательное значение");
+                throw new Exception("Не правильное значение");
             }
             foreach (WorldObject woLoc in objects)
             {

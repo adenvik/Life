@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace WindowsFormsApplication1
 {
@@ -50,7 +51,74 @@ namespace WindowsFormsApplication1
             dx[7] = -1;
             dy[7] = 0;
             //Бесконечный цикл жизни
-            life();
+            //life();
+        }
+
+        public bool iterLife(Graphics g)
+        {
+            Brush b = new SolidBrush(Color.White);
+            g.Clear(Color.Silver);
+            for (int ind = 0; ind < 600; ind += 60)
+            {
+                g.DrawLine(new Pen(new SolidBrush(Color.Black), 2), 0, ind, 600, ind);
+            }
+            for (int ind = 0; ind < 600; ind += 60)
+            {
+                g.DrawLine(new Pen(new SolidBrush(Color.Black), 2), ind, 0, ind, 600);
+            }
+            herbivorousCount = 0;
+            predatorCount = 0;
+            plantCount = 0;
+
+            for (int i = 0; i < world.objects.Count; i++)
+            {
+                if (world[i] is Herbivorous)
+                {
+                    herbivorousCount++;
+                }
+                if (world[i] is Predator)
+                {
+                    predatorCount++;
+                }
+                if (world[i] is Plant)
+                {
+                    plantCount++;
+                }
+            }
+
+            int startIndex = new Random().Next(0, world.objects.Count);
+            for (int i = startIndex; i < startIndex + world.objects.Count; i++)
+            {
+                int index = i;
+
+                if (index >= world.objects.Count) index -= world.objects.Count;
+                if (index >= world.objects.Count) index -= world.objects.Count;
+
+                if (world[index] is Herbivorous)
+                {
+                    //b = new SolidBrush(Color.Green);
+                    g.DrawImage(WindowsFormsApplication1.Properties.Resources.herb, 60 * world[index].x, 60 * world[index].y, 60, 60);
+                }
+                if (world[index] is Predator)
+                {
+                    //b = new SolidBrush(Color.Red);
+                    g.DrawImage(WindowsFormsApplication1.Properties.Resources.pred, 60 * world[index].x, 60 * world[index].y, 60, 60);
+                }
+                if (world[index] is Plant) 
+                {
+                    //b = new SolidBrush(Color.Yellow);
+                    g.DrawImage(WindowsFormsApplication1.Properties.Resources.tree, 60 * world[index].x, 60 * world[index].y, 60, 60);
+                }
+                log.add(index.ToString() + " : " + world[index].ToString());
+
+                move(world[index]);
+                old();
+
+                //g.FillEllipse(b, new Rectangle(60 * world[index].x, 60 * world[index].y, 60, 60));
+            }
+
+            if (herbivorousCount == 0 && predatorCount == 0) return false;
+            return true;
         }
 
         public void life()
@@ -58,9 +126,9 @@ namespace WindowsFormsApplication1
             log.add("Старт жизни..");
             foreach (WorldObject w in world.objects)
             {
-                if (w is AnimalDecotator)
+                if (w is Animal)
                 {
-                    if (((AnimalDecotator)w).getAnimal())
+                    if (w is Predator)
                     {
                         //хищник
                         predatorCount++;
@@ -96,17 +164,18 @@ namespace WindowsFormsApplication1
                 for (int i = startIndex; i < startIndex + world.objects.Count; i++)
                 {
                     int index = i;
-                    if (index >= world.objects.Count) index = index - world.objects.Count;
+                    if (index >= world.objects.Count) index -= world.objects.Count;
+                    if (index >= world.objects.Count) index -= world.objects.Count;
 
-                    if (world.objects[index] is AnimalDecotator)
+                    if (world.objects[index] is Animal)
                     {
-                        if (((AnimalDecotator)world.objects[index]).getAnimal())
+                        if (world.objects[index] is Predator)
                         {
-                            log.add(index.ToString() + ": Хищник " + world.objects[index].health.ToString());
+                            log.add(index.ToString() + ": Хищник " + ((Animal)world.objects[index]).ToString());
                         }
                         else
                         {
-                            log.add(index.ToString() + ": Травоядное " + world.objects[index].health.ToString());
+                            log.add(index.ToString() + ": Травоядное " + ((Animal)world.objects[index]).ToString());
                         }
                     }
                     else
@@ -147,7 +216,7 @@ namespace WindowsFormsApplication1
             log.add("Вход в функцию move");
             if (wo is Plant)
             {
-                if (new Random().Next(0, 2) == 1)
+                if (new Random().Next(0, 3) == 1)
                 {
                     log.add("Добавление растения");
                     plantCreate();
@@ -187,13 +256,13 @@ namespace WindowsFormsApplication1
                         continue;
                     }
                     //Если объект - растение и текущее животное - травоядное
-                    if (obj is Plant && !((AnimalDecotator)wo).getAnimal())
+                    if (obj is Plant && wo is Herbivorous)
                     {
                         log.add("Объект растение, а животное - травоядное. Растение съедено");
                         plantCount--;
 
                         //Сьедает растение и переходит на его позицию
-                        ((AnimalDecotator)wo).eat(obj);
+                        ((Herbivorous)wo).eat(obj);
                         die(obj);
                         wo.x += dx[index];
                         wo.y += dy[index];
@@ -209,7 +278,7 @@ namespace WindowsFormsApplication1
                     else
                     {
                         //Если объект хищник и текущее животное травоядное 
-                        if (((AnimalDecotator)obj).getAnimal() && !((AnimalDecotator)wo).getAnimal())
+                        if (obj is Predator && wo is Herbivorous)
                         {
                             log.add("Объект хищник и текущее животное травоядное . Continue");
                             continue;
@@ -217,28 +286,28 @@ namespace WindowsFormsApplication1
 
                         //---------------------------------------------------------------Размножение------------------------------------------------------------------
                         //Если объект хищник и текущее животное хищник 
-                        if (((AnimalDecotator)obj).getAnimal() && ((AnimalDecotator)wo).getAnimal())
+                        if (obj is Predator && wo is Predator)
                         {
                             log.add("Объект хищник и текущее животное хищник . Попытка размножить");
-                            reproduction((AnimalDecotator)obj, (AnimalDecotator)wo);
+                            reproduction((Animal)obj, (Animal)wo);
                             return;
                         }
                         //Если объект травоядное и текущее животное травоядное
-                        if (!((AnimalDecotator)obj).getAnimal() && !((AnimalDecotator)wo).getAnimal())
+                        if (obj is Herbivorous && wo is Herbivorous)
                         {
                             log.add("Объект травоядное и текущее животное травоядное . Попытка размножить");
-                            reproduction((AnimalDecotator)obj, (AnimalDecotator)wo);
+                            reproduction((Animal)obj, (Animal)wo);
                             return;
                         }
                         //--------------------------------------------------------------------------------------------------------------------------------------------
 
                         //Если объект травоядное и текущее животное хищник
-                        if (!((AnimalDecotator)obj).getAnimal() && ((AnimalDecotator)wo).getAnimal())
+                        if (obj is Herbivorous && wo is Predator)
                         {
                             log.add("Объект травоядное и текущее хищник травоядное . Ест травоядное");
                             herbivorousCount--;
 
-                            ((AnimalDecotator)wo).eat(obj);
+                            ((Animal)wo).eat(obj);
                             die(obj);
                             wo.x += dx[index];
                             wo.y += dy[index];
@@ -251,7 +320,7 @@ namespace WindowsFormsApplication1
                 {
                     log.add("Клетка пуста, переходим на нее, увеличивая голод");
                     //Поднимаем голод у животного и перемещаем его
-                    ((AnimalDecotator)wo).growthOfHunger();
+                    ((Animal)wo).growthOfHunger();
                     wo.x += dx[index];
                     wo.y += dy[index];
                     return;
@@ -280,7 +349,7 @@ namespace WindowsFormsApplication1
             log.add("Функция die(): выход");
         }
 
-        private void incYear()
+        public void incYear()
         {
             log.add("Функция incYear(): вход");
             foreach (WorldObject wo in world.objects)
@@ -297,9 +366,9 @@ namespace WindowsFormsApplication1
             {
                 if (world.objects[index].health <= 0)
                 {
-                    if (world.objects[index] is AnimalDecotator)
+                    if (world.objects[index] is Animal)
                     {
-                        if (((AnimalDecotator)world.objects[index]).getAnimal())
+                        if (world.objects[index] is Herbivorous)
                         {
                             //хищник
                             predatorCount--;
@@ -323,7 +392,7 @@ namespace WindowsFormsApplication1
                 if (world.objects[index] is Plant)
                 {
                     //старше 35 лет - умирает
-                    if (world.objects[index].age > 35)
+                    if (world.objects[index].age >= world.objects[index].maxAge)
                     {
                         plantCount--;
                         die(world.objects[index]);
@@ -333,36 +402,20 @@ namespace WindowsFormsApplication1
                 }
                 else
                 {
-                    //Если хищник типа 1: старше 40 лет - умирает
-                    if (((AnimalDecotator)world.objects[index]).getAnimal() && ((AnimalDecotator)world.objects[index]) is Type1 && world.objects[index].age > 40)
+                    //Если хищник: старше 40 лет - умирает
+                    if (world.objects[index] is Predator && world.objects[index].age >= world.objects[index].maxAge)
                     {
                         predatorCount--;
                         die(world.objects[index]);
-                        log.add("Функция old(): хищник типа 1 умер");
+                        log.add("Функция old(): хищник умер");
                         continue;
                     }
-                    //Если хищник типа 2: старше 30 лет - умирает
-                    if (((AnimalDecotator)world.objects[index]).getAnimal() && ((AnimalDecotator)world.objects[index]) is Type2 && world.objects[index].age > 30)
-                    {
-                        predatorCount--;
-                        die(world.objects[index]);
-                        log.add("Функция old(): хищник типа 2 умер");
-                        continue;
-                    }
-                    //Если травоядное типа 1: старше 60 лет - умирает
-                    if (!((AnimalDecotator)world.objects[index]).getAnimal() && ((AnimalDecotator)world.objects[index]) is Type1 && world.objects[index].age > 60)
+                    //Если травоядное: старше 60 лет - умирает
+                    if (world.objects[index] is Herbivorous && world.objects[index].age >= world.objects[index].maxAge)
                     {
                         herbivorousCount--;
                         die(world.objects[index]);
-                        log.add("Функция old(): травоядное типа 1 умерло");
-                        continue;
-                    }
-                    //Если травоядное типа 2: старше 47 лет - умирает
-                    if (!((AnimalDecotator)world.objects[index]).getAnimal() && ((AnimalDecotator)world.objects[index]) is Type2 && world.objects[index].age > 47)
-                    {
-                        herbivorousCount--;
-                        die(world.objects[index]);
-                        log.add("Функция old(): травоядное типа 2 умерло");
+                        log.add("Функция old(): травоядное умерло");
                         continue;
                     }
                 }
@@ -370,30 +423,23 @@ namespace WindowsFormsApplication1
             log.add("Функция old(): выход");
         }
 
-        private void reproduction(AnimalDecotator first, AnimalDecotator second)
+        private void reproduction(Animal first, Animal second)
         {
             log.add("Функция reproduction(): вход");
             if (first.age > 7 && second.age > 7)
             {
-                if (first is Type1 && second is Type1)
+                if (first.type == second.type)
                 {
                     if (first.sex != second.sex)
                     {
-                        animalCreate(true, first, second);
-                    }
-                }
-                if (first is Type2 && second is Type2)
-                {
-                    if (first.sex != second.sex)
-                    {
-                        animalCreate(true, first, second);
+                        animalCreate(first, second);
                     }
                 }
             }
             log.add("Функция reproduction(): выход");
         }
 
-        private void animalCreate(bool type, Animal first, Animal second)
+        private void animalCreate(Animal first, Animal second)
         {
             log.add("Функция animalCreate(): вход");
             if (plantCount + herbivorousCount + predatorCount >= (world.worldSize * world.worldSize) - world.worldSize) return;
@@ -403,21 +449,18 @@ namespace WindowsFormsApplication1
             Animal animal;
             if (first is Predator)
             {
-                animal = new Predator(0.1, first.sex);
+                animal = new Predator(0.1, Creator.newAge(new Random()) + 27, first.sex, first.type);
                 //predatorCount++;
                 flag = true;
                 if (predatorCount > maxPredator) maxPredator = predatorCount;
             }
             else
             {
-                animal = new Herbivorous(0.1, second.sex);
+                animal = new Herbivorous(0.1, Creator.newAge(new Random()) + 27, second.sex, first.type);
                 //herbivorousCount++;
                 flag = false;
                 if (herbivorousCount > maxHerbivorous) maxHerbivorous = herbivorousCount;
             }
-            AnimalDecotator animalDec;
-            if (type) animalDec = new Type1(animal);
-            else animalDec = new Type2(animal);
             //Ищем свободную ячейку рядом с родителями
             int[] resXY = new int[2];
             try
@@ -425,9 +468,9 @@ namespace WindowsFormsApplication1
                 if (!first.sex) resXY = getClearPos(first);
                 else resXY = getClearPos(second);
 
-                animalDec.x = resXY[0];
-                animalDec.y = resXY[1];
-                world.objects.Add(animalDec);
+                animal.x = resXY[0];
+                animal.y = resXY[1];
+                world.objects.Add(animal);
 
                 if (flag) predatorCount++;
                 else herbivorousCount++;
@@ -439,9 +482,9 @@ namespace WindowsFormsApplication1
                     if (first.sex) resXY = getClearPos(first);
                     else resXY = getClearPos(second);
 
-                    animalDec.x = resXY[0];
-                    animalDec.y = resXY[1];
-                    world.objects.Add(animalDec);
+                    animal.x = resXY[0];
+                    animal.y = resXY[1];
+                    world.objects.Add(animal);
 
                     if (flag) predatorCount++;
                     else herbivorousCount++;
@@ -476,9 +519,9 @@ namespace WindowsFormsApplication1
 
         private void plantCreate()
         {
-            if (plantCount + herbivorousCount + predatorCount >= (world.worldSize * world.worldSize) / 2) return;
+            if (plantCount >= (world.worldSize * world.worldSize)/ 2) return;
             log.add("Функция plantCreate: вход");
-            Plant plant = new Plant(0.1);
+            Plant plant = new Plant(0.1, Creator.newAge(new Random()) + 30);
             try
             {
                 int[] xy = world.getClearCoords();

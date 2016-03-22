@@ -8,12 +8,15 @@ namespace WindowsFormsApplication1
 {
     class Plant : WorldObject
     {
-        public Plant(double age)
-            : base(age)
+        public Plant(double age, double maxAge)
+            : base(age, maxAge)
         {
 
         }
-        
 
+        public override string ToString()
+        {
+            return "Plant " + this.health + " " + this.age;
+        }
     }
 }

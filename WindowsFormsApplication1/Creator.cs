@@ -22,75 +22,54 @@ namespace WindowsFormsApplication1
 
         public void initialize(int count)
         {
-            //Создает как минимум по одному животному каждого вида и растения
-
-            //Создаем 2 хищника 1 типа
-            objects.Add(new Type1(new Predator(10.0, true)));
-            objects.Add(new Type1(new Predator(10.0, false)));
-
-            //Создаем 2 хищника 2 типа
-            objects.Add(new Type2(new Predator(10.0, true)));
-            objects.Add(new Type2(new Predator(10.0, false)));
-
-            //Создаем 2 травоядных 1 типа
-            objects.Add(new Type1(new Herbivorous(10.0, true)));
-            objects.Add(new Type1(new Herbivorous(10.0, false)));
-
-            //Создаем 2 травоядных 2 типа
-            objects.Add(new Type2(new Herbivorous(10.0, true)));
-            objects.Add(new Type2(new Herbivorous(10.0, false)));
-
-            //Создаем 4 растения для животных
-            objects.Add(new Plant(10.0));
-            objects.Add(new Plant(10.0));
-            objects.Add(new Plant(10.0));
-            objects.Add(new Plant(10.0));
-            
-            int createdAnimal = 8;
-            int createdTree = 4;
+            int createdAnimal = 0;
+            int createdTree = 0;
 
             Random rand = new Random();
-            while (createdAnimal + createdTree <= count - 2)
+            while (createdAnimal + createdTree <= count / 2)
             {
                 /*
-                 * 1 - Хищник тип 1 м
-                 * 2 - Хищник тип 1 ж
-                 * 3 - Хищник тип 2 м
-                 * 4 - Хищник тип 2 ж
-                 * 5 - Травоядное тип 1 м
-                 * 6 - Травоядное тип 1 ж
-                 * 7 - Травоядное тип 2 м
-                 * 8 - Травоядное тип 2 ж
-                 * 9 - Растение
+                 * 1 - Хищник м
+                 * 2 - Хищник ж
+                 * 3 - Травоядное м
+                 * 4 - Травоядное ж
+                 * 5 - Растение
                  */
-                int n = rand.Next(1, 10);
+                int n = rand.Next(1, 50);
                 double age = newAge(rand);//Math.Round(r.NextDouble() * 10 + 5, 1);
-                if (n == 1) objects.Add(new Type1(new Predator(age, true)));
-                if (n == 2) objects.Add(new Type1(new Predator(age, false)));
-                if (n == 3) objects.Add(new Type2(new Predator(age, true)));
-                if (n == 4) objects.Add(new Type2(new Predator(age, false)));
-                if (n == 5) objects.Add(new Type1(new Herbivorous(age, true)));
-                if (n == 6) objects.Add(new Type1(new Herbivorous(age, false)));
-                if (n == 7) objects.Add(new Type2(new Herbivorous(age, true)));
-                if (n == 8) objects.Add(new Type2(new Herbivorous(age, false)));
-                if (n == 9)
+                double maxAge = newAge(rand);
+                if (maxAge < age)
+                {
+                    maxAge = age + maxAge;
+                }
+                int type = newType(rand);
+                if (n < 5) objects.Add(new Predator(age, maxAge + 27, true, type));
+                if (n >= 5 && n <= 10) objects.Add(new Predator(age, maxAge + 27, false, type));
+                if (n > 10 && n < 20) objects.Add(new Herbivorous(age, maxAge + 27, true, type));
+                if (n >= 20 && n < 30) objects.Add(new Herbivorous(age, maxAge + 27, false, type));
+                if (n >= 30)
                 {
                     createdTree++;
-                    objects.Add(new Plant(age));
+                    objects.Add(new Plant(age, maxAge + 35));
                     createdAnimal--;
                 }
                 createdAnimal++;
-                if (createdTree < createdAnimal / 2.2)
+                if (createdTree < createdAnimal / 3)
                 {
-                    objects.Add(new Plant(newAge(rand)));
+                    objects.Add(new Plant(newAge(rand), maxAge + 35));
                     createdTree++;
                 }
             }
         }
 
-        private double newAge(Random rand)
+        static public double newAge(Random rand)
         {
             return Math.Round(rand.NextDouble() * 10 + 5, 1);
+        }
+
+        static public int newType(Random rand)
+        {
+            return rand.Next(1, 5);
         }
     }
 }
