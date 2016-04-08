@@ -8,3 +8,13 @@ C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМ�
 C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\Life\Life\obj\Debug\Life.exe
 C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\Life\Life\obj\Debug\Life.pdb
 C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\Life\Life\obj\Debug\Life.Info.resources
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\bin\Debug\Life.exe.config
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.exe
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.pdb
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\bin\Debug\Life.exe
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\bin\Debug\Life.pdb
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.Form1.resources
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.Info.resources
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\Денис\Desktop\Обучение\2 курс\4 - ООТП\АВТОМАТ\WindowsFormsApplication1\Life\Life\obj\Debug\Life.csproj.GenerateResource.Cache

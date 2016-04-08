@@ -214,6 +214,7 @@ namespace Life
             if (countHerbivorous == 0 && countPredator == 0)
             {
                 life.visualizer.draw();
+                world.log.add("LifeController.isEnd() : Все животные вымерли");
                 throw new Exception("Все животные вымерли");
             }
         }

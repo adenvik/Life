@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
+using System.IO;
 
 namespace Life
 {
@@ -50,7 +51,6 @@ namespace Life
 
         public void _life()
         {
-            //life = new _Life(new World(1), this);
             while (alive)
             {
                 try
@@ -72,43 +72,6 @@ namespace Life
         {
             richTextBox1.Text = "";
             life = new _Life(new World(1), this);
-        }
-
-        private void pictureBox1_MouseDoubleClick(object sender, MouseEventArgs e)
-        {
-            int len = life.visualizer.len;
-            int x = (int)(e.X / len);
-            int y = (int)(e.Y / len);
-            WorldObject obj = life.world.getObjectByXY(x,y);
-            if (obj != null)
-            {
-                Info inf = new Info();
-                inf.label1.Text += " " + obj.GetType();
-                inf.label2.Text += " " + obj.x;
-                inf.label3.Text += " " + obj.y;
-                inf.label4.Text += " " + obj.age;
-                inf.label5.Text += " " + obj.maxAge;
-                inf.label6.Text += " " + obj.health;
-                inf.pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                if (obj is Plant)
-                {
-                    inf.pictureBox1.Image = Life.Properties.Resources.plant;
-                    inf.label7.Visible = false;
-                    inf.label8.Visible = false;
-                    inf.label9.Visible = false;
-                    inf.Size = new Size(287,188);
-                    inf.Show();
-                    return;
-                }
-                if (obj is Herbivorous) inf.pictureBox1.Image = Life.Properties.Resources.herbivorous;
-                else inf.pictureBox1.Image = Life.Properties.Resources.predator;
-
-                inf.label7.Text += " " + ((Animal)obj).sex;
-                inf.label8.Text += " " + ((Animal)obj).hunger;
-                inf.label9.Text += " " + ((Animal)obj).type;
-                inf.Show();
-            }
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -163,6 +126,20 @@ namespace Life
                 inf.label9.Text += " " + ((Animal)obj).type;
                 inf.Show();
             }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Text = "";
+            using(StreamReader sr = new StreamReader("log.txt"))
+            {
+                richTextBox1.Text += sr.ReadToEnd();
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Text = "";
         }
     }
 }

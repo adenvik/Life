@@ -17,7 +17,6 @@ namespace Life
         Graphics graphic;
         Bitmap bitmap;
         public int len;
-        //TimeSpan maxTime;
 
         public Visualizer(World world, Form1 form)
         {
@@ -28,8 +27,6 @@ namespace Life
             buf = Graphics.FromImage(bitmap);
             graphic = this.form.pictureBox1.CreateGraphics();
             len = this.form.pictureBox1.Width / world.size;
-
-            //maxTime = DateTime.Now - DateTime.Now;
         }
 
         public void drawGrid()
@@ -48,7 +45,6 @@ namespace Life
 
         public void draw()
         {
-            //DateTime start = DateTime.Now;
             drawGrid();
 
             foreach (WorldObject wo in world.objects)
@@ -56,30 +52,21 @@ namespace Life
                 if (wo is Herbivorous)
                 {
                     buf.DrawImage(Life.Properties.Resources.herbivorous, len * wo.x, len * wo.y, len, len);
-                    //buf.DrawEllipse(new Pen(new SolidBrush(Color.Green), 5), len * wo.x, len * wo.y, len, len);
-                    buf.DrawString(((Animal)wo).type.ToString() + " " + ((Animal)wo).health.ToString(), new Font("Arial", 10), new SolidBrush(Color.Red), len * wo.x, len * wo.y);
-                    buf.DrawString(((Animal)wo).age.ToString(),new Font("Arial", 10), new SolidBrush(Color.Red), len * wo.x, len * wo.y + 10);
+                    buf.DrawString(((Animal)wo).type.ToString(), new Font("Arial", len /6), new SolidBrush(Color.Red), len * wo.x, len * wo.y);
+                    buf.DrawString(((Animal)wo).age.ToString(),new Font("Arial", len / 6), new SolidBrush(Color.Red), len * wo.x + len / 10, len * wo.y + (len / 6) * 4);
                 }
                 if (wo is Predator)
                 {
                     buf.DrawImage(Life.Properties.Resources.predator, len * wo.x, len * wo.y, len, len);
-                    //buf.DrawEllipse(new Pen(new SolidBrush(Color.Red), 5), len * wo.x, len * wo.y, len, len);
-                    buf.DrawString(((Animal)wo).type.ToString() + " " + ((Animal)wo).health.ToString(), new Font("Arial", 10), new SolidBrush(Color.Yellow), len * wo.x, len * wo.y);
-                    buf.DrawString(((Animal)wo).age.ToString(), new Font("Arial", 10), new SolidBrush(Color.Yellow), len * wo.x, len * wo.y + 10);
+                    buf.DrawString(((Animal)wo).type.ToString(), new Font("Arial", 10), new SolidBrush(Color.Yellow), len * wo.x, len * wo.y);
+                    buf.DrawString(((Animal)wo).age.ToString(), new Font("Arial", 10), new SolidBrush(Color.Yellow), len * wo.x + len / 10, len * wo.y + (len / 6) * 4);
                 }
                 if (wo is Plant)
                 {
                     buf.DrawImage(Life.Properties.Resources.plant, len * wo.x, len * wo.y, len, len);
-                    //buf.DrawEllipse(new Pen(new SolidBrush(Color.Yellow), 5), len * wo.x, len * wo.y, len, len);
                 }
             }
             graphic.DrawImage(bitmap, 0, 0);
-            /*TimeSpan t = DateTime.Now - start;
-            if (maxTime < t) maxTime = t;
-            while (t < maxTime)
-            {
-                t = DateTime.Now - start;
-            }*/
         }
     }
 }
