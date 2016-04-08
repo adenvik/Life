@@ -23,20 +23,20 @@ namespace Life
 
         public override void growthOfHunger()
         {
-            if (type == 1)
+            if (type == 0)
             {
                 this.hunger = Math.Round(this.hunger + 4, 1);
                 this.health = Math.Round(this.health - 4, 1);
             }
-            if (type == 2)
+            if (type == 1)
             {
                 this.hunger = Math.Round(this.hunger + 3.3, 1);
-                this.health = Math.Round(this.hunger - 3, 1);
+                this.health = Math.Round(this.health - 3, 1);
             }
-            if (type > 2)
+            if (type > 1)
             {
                 this.hunger = Math.Round(this.hunger + type + 0.23, 1);
-                this.health = Math.Round(this.hunger - type - 0.23, 1);
+                this.health = Math.Round(this.health - type - 0.23, 1);
             }
         }
 

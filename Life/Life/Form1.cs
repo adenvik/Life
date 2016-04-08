@@ -71,6 +71,7 @@ namespace Life
         private void button2_Click(object sender, EventArgs e)
         {
             richTextBox1.Text = "";
+            alive = false;
             life = new _Life(new World(1), this);
         }
 
