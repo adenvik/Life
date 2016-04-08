@@ -1,0 +1,3651 @@
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 0
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 7 y: 7 age: 77,9 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 3 y: 2 age: 28 maxAge: 50,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:0,1 type: 2 x: 2 y: 0 age: 56,8 maxAge: 91,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 9 y: 5 age: 42 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 1 age: 6,8 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:0,1 type: 1 x: 9 y: 0 age: 57,4 maxAge: 83,3 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 -1 index:2
+Life.move() : World.isClear() : Не верное значение координат: 10 0 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:4
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Herbivorous sex: False hunger:0,1 type: 1 x: 8 y: 1 age: 33,9 maxAge: 35,8 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 94,7 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:0,1 type: 2 x: 4 y: 7 age: 14,7 maxAge: 17,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:0,1 type: 3 x: 3 y: 7 age: 50,1 maxAge: 71,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:0,1 type: 3 x: 6 y: 5 age: 49,3 maxAge: 71,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:0,1 type: 1 x: 4 y: 5 age: 29,3 maxAge: 34 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 1 age: 7 maxAge: 13,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 58,4 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:0,1 type: 1 x: 5 y: 0 age: 55,8 maxAge: 78,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 6 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:0,1 type: 3 x: 8 y: 0 age: 18,2 maxAge: 27,5 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 8 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 9 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 8 y: 4 age: 23,4 maxAge: 39,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:0,1 type: 1 x: 6 y: 9 age: 2,2 maxAge: 6,5 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:0,1 type: 2 x: 4 y: 0 age: 37,6 maxAge: 69,5 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : World.isClear() : Не верное значение координат: 3 -1 index:0
+Life.move() : World.isClear() : Не верное значение координат: 4 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 5 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 99,4 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 29,2 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 1 y: 0 age: 12,8 maxAge: 13 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 35,7 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:0,1 type: 3 x: 1 y: 5 age: 53,7 maxAge: 87,5 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 18,5 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 0
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от старости
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 5 y: 7 age: 18,7 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 3 age: 94,9 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:5,8 type: 2 x: 3 y: 8 age: 14,9 maxAge: 17,4 health: 0,8
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 1 age: 7,2 maxAge: 13,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:3,4 type: 2 x: 5 y: 0 age: 37,8 maxAge: 69,5 health: 0,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 4 -1 index:0
+Life.move() : World.isClear() : Не верное значение координат: 5 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 6 -1 index:2
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:4,1 type: 1 x: 7 y: 0 age: 34,1 maxAge: 35,8 health: 96
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 8 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:3,4 type: 2 x: 3 y: 0 age: 57 maxAge: 91,9 health: 0,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:0 type: 1 x: 9 y: 1 age: 57,6 maxAge: 83,3 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 9 y: 5 age: 42,2 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:6,5 type: 1 x: 3 y: 5 age: 29,5 maxAge: 34 health: 93
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 99,6 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 8 y: 4 age: 23,6 maxAge: 39,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:3,3 type: 3 x: 9 y: 0 age: 18,4 maxAge: 27,5 health: 0,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 9 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 10 -1 index:2
+Life.move() : World.isClear() : Не верное значение координат: 10 0 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:3,3 type: 3 x: 2 y: 7 age: 50,3 maxAge: 71,1 health: 0,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 78,1 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:4,1 type: 1 x: 6 y: 0 age: 56 maxAge: 78,1 health: 96
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 5 -1 index:0
+Life.move() : World.isClear() : Не верное значение координат: 6 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 7 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:3,3 type: 3 x: 2 y: 5 age: 53,9 maxAge: 87,5 health: 0,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 35,9 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 3 y: 2 age: 28,2 maxAge: 50,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:6,5 type: 1 x: 6 y: 8 age: 2,4 maxAge: 6,5 health: 93
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 1 age: 7 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 29,4 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:3,3 type: 3 x: 5 y: 6 age: 49,5 maxAge: 71,1 health: 0,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 58,6 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 4 y: 6 age: 99,8 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:6,5 type: 3 x: 2 y: 6 age: 50,5 maxAge: 71,1 health: 3,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:6,7 type: 2 x: 6 y: 1 age: 38 maxAge: 69,5 health: 3,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 78,3 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:12,9 type: 1 x: 3 y: 6 age: 29,7 maxAge: 34 health: 86
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : хищник съел травоядное
+Life.iterLife() : Plant x: 4 y: 1 age: 7,2 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:12,9 type: 1 x: 5 y: 8 age: 2,6 maxAge: 6,5 health: 86
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 3 y: 2 age: 28,4 maxAge: 50,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:11,5 type: 2 x: 3 y: 7 age: 15,1 maxAge: 17,4 health: 6,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:6,5 type: 3 x: 2 y: 4 age: 54,1 maxAge: 87,5 health: 3,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 36,1 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 29,6 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 8 y: 4 age: 23,8 maxAge: 39,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 58,8 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 7 age: 18,9 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 3 age: 95,1 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 9 y: 5 age: 42,4 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:4 type: 1 x: 8 y: 1 age: 57,8 maxAge: 83,3 health: 96
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 1 age: 7,4 maxAge: 13,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:8,1 type: 1 x: 7 y: 0 age: 56,2 maxAge: 78,1 health: 92
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 6 -1 index:0
+Life.move() : World.isClear() : Не верное значение координат: 7 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 8 -1 index:2
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:8,1 type: 1 x: 8 y: 0 age: 34,3 maxAge: 35,8 health: 92
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 8 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 9 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:6,5 type: 3 x: 9 y: 1 age: 18,6 maxAge: 27,5 health: 3,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 2 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:6,7 type: 2 x: 3 y: 1 age: 57,2 maxAge: 91,9 health: 3,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 0
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 2 y: 3 age: 59 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:12,1 type: 1 x: 9 y: 0 age: 34,5 maxAge: 35,8 health: 88
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 36,3 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 78,5 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:0 type: 2 x: 3 y: 2 age: 57,4 maxAge: 91,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:19,3 type: 1 x: 6 y: 9 age: 2,8 maxAge: 6,5 health: 79
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 5 10 index:6
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:12,1 type: 1 x: 8 y: 1 age: 56,4 maxAge: 78,1 health: 88
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:8 type: 1 x: 7 y: 1 age: 58 maxAge: 83,3 health: 92
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 1 age: 7,6 maxAge: 13,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 29,8 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:9,7 type: 3 x: 9 y: 2 age: 18,8 maxAge: 27,5 health: 6,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:2
+Life.move() : World.isClear() : Не верное значение координат: 10 2 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 3 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:9,7 type: 3 x: 1 y: 4 age: 54,3 maxAge: 87,5 health: 6,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 95,3 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 100 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 1 age: 7,4 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:9,7 type: 3 x: 1 y: 5 age: 50,7 maxAge: 71,1 health: 6,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 8 y: 4 age: 24 maxAge: 39,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:10 type: 2 x: 6 y: 2 age: 38,2 maxAge: 69,5 health: 7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 19,1 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:0 type: 1 x: 4 y: 7 age: 29,9 maxAge: 34 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:17,2 type: 2 x: 2 y: 7 age: 15,3 maxAge: 17,4 health: 12,2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 9 y: 5 age: 42,6 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : добавление объекта World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 6
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 5
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 3
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 5 y: 7 age: 19,3 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 59,2 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 36,5 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:16,1 type: 1 x: 8 y: 0 age: 56,6 maxAge: 78,1 health: 84
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 95,5 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:12,9 type: 3 x: 0 y: 5 age: 50,9 maxAge: 71,1 health: 9,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:16,1 type: 1 x: 9 y: 1 age: 34,7 maxAge: 35,8 health: 84
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 0 index:2
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 2 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:6,4 type: 1 x: 5 y: 6 age: 30,1 maxAge: 34 health: 93
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 9 y: 5 age: 42,8 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 100,2 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:12 type: 1 x: 8 y: 2 age: 58,2 maxAge: 83,3 health: 88
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 1 age: 7,6 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:12,9 type: 3 x: 0 y: 3 age: 54,5 maxAge: 87,5 health: 9,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 78,7 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:13,3 type: 2 x: 7 y: 1 age: 38,4 maxAge: 69,5 health: 10,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:22,9 type: 2 x: 3 y: 6 age: 15,5 maxAge: 17,4 health: 17,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:12,9 type: 3 x: 9 y: 3 age: 19 maxAge: 27,5 health: 9,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 1 age: 7,8 maxAge: 13,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 8 y: 4 age: 24,2 maxAge: 39,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 30 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:25,7 type: 1 x: 5 y: 9 age: 3 maxAge: 6,5 health: 72
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 4 10 index:6
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:3,3 type: 2 x: 4 y: 3 age: 57,6 maxAge: 91,9 health: 0,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 3
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 8 y: 4 age: 24,4 maxAge: 39,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 7 age: 19,5 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 3 age: 95,7 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:20,1 type: 1 x: 9 y: 2 age: 34,9 maxAge: 35,8 health: 80
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 1 age: 8 maxAge: 13,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 78,9 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:20,1 type: 1 x: 7 y: 0 age: 56,8 maxAge: 78,1 health: 80
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 36,7 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:12,8 type: 1 x: 6 y: 5 age: 30,3 maxAge: 34 health: 86
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:28,6 type: 2 x: 2 y: 5 age: 15,7 maxAge: 17,4 health: 23,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:16,6 type: 2 x: 8 y: 1 age: 38,6 maxAge: 69,5 health: 13,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 59,4 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:16,1 type: 3 x: 1 y: 3 age: 54,7 maxAge: 87,5 health: 12,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 1 age: 7,8 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 9 y: 5 age: 43 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:6,6 type: 2 x: 5 y: 2 age: 57,8 maxAge: 91,9 health: 3,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Herbivorous sex: False hunger:16,1 type: 3 x: 0 y: 4 age: 51,1 maxAge: 71,1 health: 12,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 100,4 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:16 type: 1 x: 7 y: 2 age: 58,4 maxAge: 83,3 health: 84
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:16,1 type: 3 x: 8 y: 2 age: 19,2 maxAge: 27,5 health: 12,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:32,1 type: 1 x: 4 y: 9 age: 3,2 maxAge: 6,5 health: 65
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 2
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 6
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 5
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 4 y: 1 age: 8 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 36,9 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 79,1 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 30,4 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 100,6 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:19,2 type: 1 x: 5 y: 6 age: 30,5 maxAge: 34 health: 79
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 59,6 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:34,3 type: 2 x: 1 y: 5 age: 15,9 maxAge: 17,4 health: 29,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:19,9 type: 2 x: 9 y: 0 age: 38,8 maxAge: 69,5 health: 16,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 8 -1 index:0
+Life.move() : World.isClear() : Не верное значение координат: 9 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 10 -1 index:2
+Life.move() : World.isClear() : Не верное значение координат: 10 0 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 95,9 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:0 type: 2 x: 5 y: 1 age: 58 maxAge: 91,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:38,5 type: 1 x: 3 y: 8 age: 3,4 maxAge: 6,5 health: 58
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 9 y: 5 age: 43,2 maxAge: 68,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:19,3 type: 3 x: 7 y: 3 age: 19,4 maxAge: 27,5 health: 16,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 19,7 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:20 type: 1 x: 8 y: 3 age: 58,6 maxAge: 83,3 health: 80
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Herbivorous sex: True hunger:24,1 type: 1 x: 7 y: 1 age: 57 maxAge: 78,1 health: 76
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:19,3 type: 3 x: 0 y: 2 age: 54,9 maxAge: 87,5 health: 16,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: -1 2 index:7
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : World.isClear() : Не верное значение координат: -1 1 index:0
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:19,3 type: 3 x: 0 y: 5 age: 51,3 maxAge: 71,1 health: 16,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:24,1 type: 1 x: 9 y: 3 age: 35,1 maxAge: 35,8 health: 76
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 4 y: 6 age: 100,8 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:40 type: 2 x: 2 y: 5 age: 16,1 maxAge: 17,4 health: 35
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:23,2 type: 2 x: 9 y: 1 age: 39 maxAge: 69,5 health: 20,2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:22,5 type: 3 x: 1 y: 5 age: 51,5 maxAge: 71,1 health: 19,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:22,5 type: 3 x: 7 y: 4 age: 19,6 maxAge: 27,5 health: 19,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 30,6 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:0 type: 1 x: 8 y: 4 age: 58,8 maxAge: 83,3 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Plant x: 7 y: 7 age: 79,3 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:44,9 type: 1 x: 4 y: 8 age: 3,6 maxAge: 6,5 health: 51
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 1 age: 8,2 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:25,6 type: 1 x: 4 y: 7 age: 30,7 maxAge: 34 health: 72
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 59,8 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 7 age: 19,9 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:28,1 type: 1 x: 6 y: 1 age: 57,2 maxAge: 78,1 health: 72
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:22,5 type: 3 x: 0 y: 1 age: 55,1 maxAge: 87,5 health: 19,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: -1 2 index:6
+Life.move() : World.isClear() : Не верное значение координат: -1 1 index:7
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : World.isClear() : Не верное значение координат: -1 0 index:0
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:3,3 type: 2 x: 4 y: 0 age: 58,2 maxAge: 91,9 health: 0,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 37,1 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:28,1 type: 1 x: 9 y: 4 age: 35,3 maxAge: 35,8 health: 72
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 96,1 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 0 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 0
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 7 y: 7 age: 79,5 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:25,7 type: 3 x: 8 y: 5 age: 19,8 maxAge: 27,5 health: 22,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 1 age: 8,4 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:25,7 type: 3 x: 2 y: 4 age: 51,7 maxAge: 71,1 health: 22,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:45,7 type: 2 x: 3 y: 6 age: 16,3 maxAge: 17,4 health: 40,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 96,3 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:6,6 type: 2 x: 3 y: 0 age: 58,4 maxAge: 91,9 health: 3,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 4 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 60 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:51,3 type: 1 x: 3 y: 9 age: 3,8 maxAge: 6,5 health: 44
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 4 10 index:4
+Life.move() : World.isClear() : Не верное значение координат: 3 10 index:5
+Life.move() : World.isClear() : Не верное значение координат: 2 10 index:6
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 20,1 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:32,1 type: 1 x: 7 y: 2 age: 57,4 maxAge: 78,1 health: 68
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:26,5 type: 2 x: 8 y: 2 age: 39,2 maxAge: 69,5 health: 23,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 37,3 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:0 type: 1 x: 9 y: 5 age: 59 maxAge: 83,3 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 30,8 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 101 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:32,1 type: 1 x: 8 y: 4 age: 35,5 maxAge: 35,8 health: 68
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:25,7 type: 3 x: 0 y: 0 age: 55,3 maxAge: 87,5 health: 22,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:32 type: 1 x: 5 y: 6 age: 30,9 maxAge: 34 health: 65
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 7
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 0 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: False hunger:28,9 type: 3 x: 3 y: 5 age: 51,9 maxAge: 71,1 health: 25,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 96,5 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:28,9 type: 3 x: 9 y: 6 age: 20 maxAge: 27,5 health: 25,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:9,9 type: 2 x: 4 y: 0 age: 58,6 maxAge: 91,9 health: 6,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 4 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 5 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:4 type: 1 x: 8 y: 6 age: 59,2 maxAge: 83,3 health: 96
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:36,1 type: 1 x: 6 y: 3 age: 57,6 maxAge: 78,1 health: 64
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 60,2 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 79,7 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 37,5 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:51,4 type: 2 x: 2 y: 7 age: 16,5 maxAge: 17,4 health: 46,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 1 age: 8,6 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 101,2 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:57,7 type: 1 x: 2 y: 9 age: 4 maxAge: 6,5 health: 37
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 1 10 index:6
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 20,3 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:29,8 type: 2 x: 9 y: 3 age: 39,4 maxAge: 69,5 health: 26,8
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:28,9 type: 3 x: 1 y: 0 age: 55,5 maxAge: 87,5 health: 25,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:38,4 type: 1 x: 4 y: 5 age: 31,1 maxAge: 34 health: 58
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 31 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:36,1 type: 1 x: 9 y: 5 age: 35,7 maxAge: 35,8 health: 64
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 6 index:4
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 0 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 7
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от старости
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Predator sex: False hunger:64,1 type: 1 x: 1 y: 9 age: 4,2 maxAge: 6,5 health: 30
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:40,1 type: 1 x: 7 y: 3 age: 57,8 maxAge: 78,1 health: 60
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:33,1 type: 2 x: 9 y: 2 age: 39,6 maxAge: 69,5 health: 30,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 2 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 3 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:8 type: 1 x: 7 y: 5 age: 59,4 maxAge: 83,3 health: 92
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 20,5 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 31,2 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 1 age: 8,8 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:32,1 type: 3 x: 8 y: 7 age: 20,2 maxAge: 27,5 health: 28,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 3 age: 96,7 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:44,8 type: 1 x: 3 y: 4 age: 31,3 maxAge: 34 health: 51
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 101,4 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:57,1 type: 2 x: 3 y: 7 age: 16,7 maxAge: 17,4 health: 52,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:13,2 type: 2 x: 5 y: 0 age: 58,8 maxAge: 91,9 health: 10,2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 5 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 6 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:32,1 type: 3 x: 4 y: 4 age: 52,1 maxAge: 71,1 health: 28,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 79,9 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 37,7 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 60,4 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:32,1 type: 3 x: 1 y: 1 age: 55,7 maxAge: 87,5 health: 28,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 5 y: 3 age: 96,9 maxAge: 99,9 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:70,5 type: 1 x: 1 y: 8 age: 4,4 maxAge: 6,5 health: 23
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 101,6 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:44,1 type: 1 x: 6 y: 4 age: 58 maxAge: 78,1 health: 56
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:35,3 type: 3 x: 1 y: 2 age: 55,9 maxAge: 87,5 health: 32,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:12 type: 1 x: 7 y: 4 age: 59,6 maxAge: 83,3 health: 88
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 80,1 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 60,6 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:62,8 type: 2 x: 2 y: 7 age: 16,9 maxAge: 17,4 health: 57,8
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:35,3 type: 3 x: 7 y: 6 age: 20,4 maxAge: 27,5 health: 32,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:16,5 type: 2 x: 6 y: 0 age: 59 maxAge: 91,9 health: 13,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:35,3 type: 3 x: 3 y: 4 age: 52,3 maxAge: 71,1 health: 32,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 20,7 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:51,2 type: 1 x: 2 y: 4 age: 31,5 maxAge: 34 health: 44
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 31,4 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 1 age: 9 maxAge: 9,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:36,4 type: 2 x: 9 y: 3 age: 39,8 maxAge: 69,5 health: 33,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 4 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 37,9 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 2
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от старости
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 5 y: 7 age: 20,9 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:39,7 type: 2 x: 9 y: 4 age: 40 maxAge: 69,5 health: 36,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:48,1 type: 1 x: 6 y: 5 age: 58,2 maxAge: 78,1 health: 52
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 38,1 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:19,8 type: 2 x: 5 y: 0 age: 59,2 maxAge: 91,9 health: 16,8
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 101,8 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 31,6 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 80,3 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:68,5 type: 2 x: 2 y: 6 age: 17,1 maxAge: 17,4 health: 63,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:38,5 type: 3 x: 0 y: 2 age: 56,1 maxAge: 87,5 health: 35,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: -1 3 index:6
+Life.move() : World.isClear() : Не верное значение координат: -1 2 index:7
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : World.isClear() : Не верное значение координат: -1 1 index:0
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:38,5 type: 3 x: 4 y: 4 age: 52,5 maxAge: 71,1 health: 35,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Predator sex: False hunger:76,9 type: 1 x: 2 y: 9 age: 4,6 maxAge: 6,5 health: 16
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:38,5 type: 3 x: 8 y: 7 age: 20,6 maxAge: 27,5 health: 35,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:16 type: 1 x: 8 y: 5 age: 59,8 maxAge: 83,3 health: 84
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:57,6 type: 1 x: 2 y: 5 age: 31,7 maxAge: 34 health: 37
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 60,8 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Predator sex: False hunger:83,3 type: 1 x: 1 y: 8 age: 4,8 maxAge: 6,5 health: 9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:43 type: 2 x: 8 y: 4 age: 40,2 maxAge: 69,5 health: 40
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 102 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 31,8 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:41,7 type: 3 x: 7 y: 8 age: 20,8 maxAge: 27,5 health: 38,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 61 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 7 age: 21,1 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:20 type: 1 x: 9 y: 4 age: 60 maxAge: 83,3 health: 80
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 5 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 80,5 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:23,1 type: 2 x: 4 y: 0 age: 59,4 maxAge: 91,9 health: 20,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:41,7 type: 3 x: 0 y: 1 age: 56,3 maxAge: 87,5 health: 38,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:52,1 type: 1 x: 5 y: 4 age: 58,4 maxAge: 78,1 health: 48
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:0 type: 3 x: 5 y: 3 age: 52,7 maxAge: 71,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 38,3 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:74,2 type: 2 x: 3 y: 6 age: 17,3 maxAge: 17,4 health: 69,2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:64 type: 1 x: 2 y: 4 age: 31,9 maxAge: 34 health: 30
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 0 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от старости
+LifeController.incAge() : объект умер от голода
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 4 y: 6 age: 102,2 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:46,3 type: 2 x: 8 y: 5 age: 40,4 maxAge: 69,5 health: 43,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 80,7 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:56,1 type: 1 x: 6 y: 3 age: 58,6 maxAge: 78,1 health: 44
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:26,4 type: 2 x: 5 y: 1 age: 59,6 maxAge: 91,9 health: 23,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 21,3 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 61,2 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 38,5 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 32 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:89,7 type: 1 x: 1 y: 7 age: 5 maxAge: 6,5 health: 2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:24 type: 1 x: 9 y: 5 age: 60,2 maxAge: 83,3 health: 76
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:44,9 type: 3 x: 6 y: 8 age: 21 maxAge: 27,5 health: 41,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:44,9 type: 3 x: 1 y: 0 age: 56,5 maxAge: 87,5 health: 41,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:70,4 type: 1 x: 1 y: 5 age: 32,1 maxAge: 34 health: 23
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 7
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 6
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 6
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 7
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 10
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 10
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от голода
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Predator sex: False hunger:76,8 type: 1 x: 0 y: 6 age: 32,3 maxAge: 34 health: 16
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: -1 6 index:7
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : World.isClear() : Не верное значение координат: -1 5 index:0
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 38,7 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 5 y: 7 age: 21,5 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:29,7 type: 2 x: 6 y: 0 age: 59,8 maxAge: 91,9 health: 26,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 6 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 7 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 80,9 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 102,4 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 61,4 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:28 type: 1 x: 9 y: 6 age: 60,4 maxAge: 83,3 health: 72
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:60,1 type: 1 x: 5 y: 4 age: 58,8 maxAge: 78,1 health: 40
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:48,1 type: 3 x: 2 y: 1 age: 56,7 maxAge: 87,5 health: 44,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:48,1 type: 3 x: 5 y: 9 age: 21,2 maxAge: 27,5 health: 44,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:49,6 type: 2 x: 8 y: 4 age: 40,6 maxAge: 69,5 health: 46,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 32,2 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 6
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 5
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 6 y: 6 age: 38,9 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 81,1 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:52,9 type: 2 x: 8 y: 3 age: 40,8 maxAge: 69,5 health: 49,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 5 y: 7 age: 21,7 maxAge: 42,6 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:64,1 type: 1 x: 5 y: 3 age: 59 maxAge: 78,1 health: 36
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:51,3 type: 3 x: 6 y: 8 age: 21,4 maxAge: 27,5 health: 48,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:33 type: 2 x: 7 y: 0 age: 60 maxAge: 91,9 health: 30
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:51,3 type: 3 x: 3 y: 0 age: 56,9 maxAge: 87,5 health: 48,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 32,4 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Predator sex: False hunger:83,2 type: 1 x: 0 y: 5 age: 32,5 maxAge: 34 health: 9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: -1 6 index:6
+Life.move() : World.isClear() : Не верное значение координат: -1 5 index:7
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : World.isClear() : Не верное значение координат: -1 4 index:0
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:32 type: 1 x: 8 y: 5 age: 60,6 maxAge: 83,3 health: 68
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 61,6 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 102,6 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 7 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 3
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 3
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 5
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 4 y: 6 age: 102,8 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:54,5 type: 3 x: 5 y: 8 age: 21,6 maxAge: 27,5 health: 51,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Herbivorous sex: True hunger:68,1 type: 1 x: 4 y: 3 age: 59,2 maxAge: 78,1 health: 32
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 32,6 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 39,1 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 61,8 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:36 type: 1 x: 7 y: 4 age: 60,8 maxAge: 83,3 health: 64
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:54,5 type: 3 x: 2 y: 1 age: 57,1 maxAge: 87,5 health: 51,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:36,3 type: 2 x: 8 y: 0 age: 60,2 maxAge: 91,9 health: 33,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 9 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 81,3 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:56,2 type: 2 x: 9 y: 2 age: 41 maxAge: 69,5 health: 53,2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Predator sex: False hunger:89,6 type: 1 x: 0 y: 4 age: 32,7 maxAge: 34 health: 2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: -1 3 index:0
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 0 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 8 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 9 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 2
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 4
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: -1 3
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от голода
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: True hunger:40 type: 1 x: 7 y: 3 age: 61 maxAge: 83,3 health: 60
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 39,3 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:72,1 type: 1 x: 3 y: 4 age: 59,4 maxAge: 78,1 health: 28
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 32,8 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:57,7 type: 3 x: 1 y: 0 age: 57,3 maxAge: 87,5 health: 54,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 2 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:59,5 type: 2 x: 8 y: 2 age: 41,2 maxAge: 69,5 health: 56,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:0 type: 3 x: 5 y: 7 age: 21,8 maxAge: 27,5 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 103 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:39,6 type: 2 x: 9 y: 0 age: 60,4 maxAge: 91,9 health: 36,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 10 0 index:3
+Life.move() : World.isClear() : Не верное значение координат: 10 1 index:4
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 62 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 81,5 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 1 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 0
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 10 2
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : объект умер от голода
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: True hunger:76,1 type: 1 x: 4 y: 5 age: 59,6 maxAge: 78,1 health: 24
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:60,9 type: 3 x: 2 y: 0 age: 57,5 maxAge: 87,5 health: 57,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:62,8 type: 2 x: 8 y: 3 age: 41,4 maxAge: 69,5 health: 59,8
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 4 y: 6 age: 103,2 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:44 type: 1 x: 7 y: 2 age: 61,2 maxAge: 83,3 health: 56
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 81,7 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:42,9 type: 2 x: 9 y: 1 age: 60,6 maxAge: 91,9 health: 39,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 62,2 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 39,5 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 33 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 2 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 2 y: 3 age: 62,4 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 4 y: 6 age: 103,4 maxAge: 126,4 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 39,7 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:66,1 type: 2 x: 8 y: 2 age: 41,6 maxAge: 69,5 health: 63,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:64,1 type: 3 x: 3 y: 0 age: 57,7 maxAge: 87,5 health: 60,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:48 type: 1 x: 8 y: 3 age: 61,4 maxAge: 83,3 health: 52
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : Индекс находился вне границ массива. index:-1
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:46,2 type: 2 x: 8 y: 1 age: 60,8 maxAge: 91,9 health: 43,2
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 33,2 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:80,1 type: 1 x: 3 y: 6 age: 59,8 maxAge: 78,1 health: 20
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 81,9 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: False hunger:49,5 type: 2 x: 7 y: 1 age: 61 maxAge: 91,9 health: 46,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 62,6 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:84,1 type: 1 x: 3 y: 7 age: 60 maxAge: 78,1 health: 16
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : травоядное съело растение
+Life.iterLife() : Plant x: 7 y: 7 age: 82,1 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 39,9 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 33,4 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:52 type: 1 x: 7 y: 2 age: 61,6 maxAge: 83,3 health: 48
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:69,4 type: 2 x: 7 y: 3 age: 41,8 maxAge: 69,5 health: 66,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:67,3 type: 3 x: 4 y: 0 age: 57,9 maxAge: 87,5 health: 64,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: True hunger:0 type: 1 x: 4 y: 6 age: 60,2 maxAge: 78,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:52,8 type: 2 x: 8 y: 2 age: 61,2 maxAge: 91,9 health: 49,8
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:56 type: 1 x: 6 y: 1 age: 61,8 maxAge: 83,3 health: 44
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 40,1 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:70,5 type: 3 x: 3 y: 1 age: 58,1 maxAge: 87,5 health: 67,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 33,6 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 82,3 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:72,7 type: 2 x: 6 y: 3 age: 42 maxAge: 69,5 health: 69,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 62,8 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 3 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: True hunger:76 type: 2 x: 7 y: 3 age: 42,2 maxAge: 69,5 health: 73
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 82,5 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 3 age: 63 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 33,8 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:60 type: 1 x: 6 y: 2 age: 62 maxAge: 83,3 health: 40
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка не пуста, проверяем что за объкт
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:4 type: 1 x: 4 y: 5 age: 60,4 maxAge: 78,1 health: 96
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:56,1 type: 2 x: 7 y: 2 age: 61,4 maxAge: 91,9 health: 53,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:73,7 type: 3 x: 4 y: 0 age: 58,3 maxAge: 87,5 health: 70,5
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : World.isClear() : Не верное значение координат: 3 -1 index:0
+Life.move() : World.isClear() : Не верное значение координат: 4 -1 index:1
+Life.move() : World.isClear() : Не верное значение координат: 5 -1 index:2
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 40,3 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 4 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 5 -1
+LifeController.getObjectsAround() : World.isClear() : Не верное значение координат: 6 -1
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: True hunger:79,3 type: 2 x: 6 y: 4 age: 42,4 maxAge: 69,5 health: 76,3
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:64 type: 1 x: 7 y: 3 age: 62,2 maxAge: 83,3 health: 36
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 63,2 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 7 y: 7 age: 82,7 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:8 type: 1 x: 3 y: 5 age: 60,6 maxAge: 78,1 health: 92
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:59,4 type: 2 x: 6 y: 3 age: 61,6 maxAge: 91,9 health: 56,4
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 34 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 40,5 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:76,9 type: 3 x: 5 y: 0 age: 58,5 maxAge: 87,5 health: 73,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : параметры подходят
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект добавлен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Plant x: 7 y: 7 age: 82,9 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:12 type: 1 x: 3 y: 4 age: 60,8 maxAge: 78,1 health: 88
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:62,7 type: 2 x: 6 y: 4 age: 61,8 maxAge: 91,9 health: 59,7
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 63,4 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 6 y: 6 age: 40,7 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: False hunger:80,1 type: 3 x: 6 y: 1 age: 58,7 maxAge: 87,5 health: 76,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 8 age: 34,2 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.move() : добавление растения
+Life.move() : растение добавлено
+Life.iterLife() : Herbivorous sex: True hunger:68 type: 1 x: 7 y: 2 age: 62,4 maxAge: 83,3 health: 32
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: True hunger:82,6 type: 2 x: 7 y: 4 age: 42,6 maxAge: 69,5 health: 79,6
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 9 y: 0 age: 0,1 maxAge: 27,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : проверка объекта
+LifeController.check() : поиск животных окончен
+LifeController.check() : объект найден
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск похожих объектов
+LifeController.check() : поиск животных вокруг
+LifeController.check() : поиск животных окончен
+LifeController.check() : цикл поиска окончен
+LifeController.incAge() : начало цикла повышения возраста
+LifeController.incAge() : конец цикла повышения возраста
+Life.iterLife() : Herbivorous sex: False hunger:66 type: 2 x: 5 y: 4 age: 62 maxAge: 91,9 health: 63
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 6 y: 6 age: 40,9 maxAge: 62 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 2 y: 8 age: 34,4 maxAge: 41,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:85,9 type: 2 x: 8 y: 4 age: 42,8 maxAge: 69,5 health: 82,9
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Herbivorous sex: False hunger:83,3 type: 3 x: 5 y: 1 age: 58,9 maxAge: 87,5 health: 80,1
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 7 y: 7 age: 83,1 maxAge: 118 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:72 type: 1 x: 7 y: 3 age: 62,6 maxAge: 83,3 health: 28
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
+Life.iterLife() : Plant x: 2 y: 3 age: 63,6 maxAge: 111,1 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Plant x: 9 y: 0 age: 0,3 maxAge: 27,7 health: 100
+Life.move() : начало цикла перемещений
+Life.move() : объект - растение
+Life.iterLife() : Herbivorous sex: True hunger:16 type: 1 x: 2 y: 5 age: 61 maxAge: 78,1 health: 84
+Life.move() : начало цикла перемещений
+Life.move() : объект - животное
+Life.move() : клетка пуста - перемещаемся
